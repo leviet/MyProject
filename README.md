@@ -1,0 +1,4 @@
+MyProject
+=========
+
+Some my project
